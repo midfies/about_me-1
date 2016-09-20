@@ -22,7 +22,7 @@ questionNumber1.toLowerCase();
     }
     document.write('<p> <strong>' + questionNumber1 + '</p> </strong> <br>');
       alert('Question Number 2');
-var questionNumber2 = prompt ('yes or no questions\: Was Pavel bord in USA?');
+var questionNumber2 = prompt ('yes or no questions\: Was Pavel born in USA?');
 questionNumber2.toLowerCase();
   if (questionNumber2 == 'no') {
       alert('Correct! Pavel was born in Ukraine.');

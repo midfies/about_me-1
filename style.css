@@ -1,21 +1,21 @@
-html body {background-color: yellow;
-}
-if {
-  color: green;
-}
-else{
-  color:red;
-}
-document.write{
-  text-align: center;
-  color: green;
+body {
+  background-image: url("https://hd.unsplash.com/photo-1471259521144-ce142aba2f9c")
 }
 h1{
-  font-size: 64px;
-  font-family: "Arvo";
+  font-size: 70px;
+  font-family: "Arial";
+  text-align: center;
+}
+h2{
+  font-size: 58px;
+  font-family: "Arial";
   text-align: center;
 }
 p{
   font-size: 38px;
+  text-align: center;
+}
+p{
+  font-size: 35px;
   text-align: center;
 }
