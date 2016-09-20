@@ -1,3 +1,21 @@
-* {
-  color: red;
+html body {background-color: yellow;
+}
+if {
+  color: green;
+}
+else{
+  color:red;
+}
+document.write{
+  text-align: center;
+  color: green;
+}
+h1{
+  font-size: 64px;
+  font-family: "Arvo";
+  text-align: center;
+}
+p{
+  font-size: 38px;
+  text-align: center;
 }
