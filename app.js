@@ -20,7 +20,6 @@ questionNumber1.toLowerCase();
   else {
       alert('Wrong! Pavel is 18 years old.');
     }
-    document.write('<p> <strong>' + questionNumber1 + '</p> </strong> <br>');
       alert('Question Number 2');
 var questionNumber2 = prompt ('yes or no questions\: Was Pavel born in USA?');
 questionNumber2.toLowerCase();
@@ -30,7 +29,6 @@ questionNumber2.toLowerCase();
   else {
       alert('Wrong! Pavel was born is Ukraine.');
   }
-    document.write('<p> <strong>' + questionNumber2 + '</p> </strong> <br>');
     alert('Question Number 3');
 var questionNumber3 = prompt('yes or no questions\: Pavel takes the bus to school?');
 questionNumber3.toLowerCase();
@@ -40,7 +38,6 @@ questionNumber3.toLowerCase();
   else {
     alert('Wrong! Pavel does take the bus to school every morning at 7\:00am.');
   }
-    document.write('<p> <strong>' + questionNumber3 + '</p> </strong> <br>');
     alert('Question Number 4');
 var questionNumber4 = prompt ('yes or no questions\: Pavel has green eyes?');
 questionNumber4.toLowerCase();
@@ -50,7 +47,6 @@ questionNumber4.toLowerCase();
   else {
     alert('Wrong! Pavel does not have green eyes.');
   }
-  document.write('<p> <strong>' + questionNumber4 + '</p> </strong> <br>');
   alert('Question Number 5');
 var questionNumber5 = prompt ('yes or no questions\: Does Pavel go to gym?');
 questionNumber5.toLowerCase();
@@ -60,5 +56,4 @@ questionNumber5.toLowerCase();
   else {
     alert('Wrong! Pavel does go to gym.');
   }
-    document.write('<p> <strong>' + questionNumber5 + '</p> </strong> <br>');
     alert('Thank you for playing Pavel\'s game.');
