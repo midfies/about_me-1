@@ -77,7 +77,7 @@ for(var i = 0; i < 5; i++){
       break;
     }
   } else if (i > 1 && i < 5) {
-    numAns = parseInt(prompt ('You didn\' guess my number, guess again'));
+    numAns = parseInt(prompt ('You didn\'t guess my number, guess again'));
     console.log(favNum);
     if(favNum === numAns) {
       alert('You Got It!');
